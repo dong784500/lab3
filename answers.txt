@@ -19,19 +19,23 @@ cat file.txt | wc -l
 # -----------------
 # Task 1 Answer
 # -----------------
-
+https://raw.githubusercontent.com/PurdueCS190/lab3/master/answers.txt
 
 # -----------------
 # Task 2b Answer
 # -----------------
+bash madlib < input.txt > poem.txt
 
 
 # -----------------
 # Task 3 Answer
 # -----------------
+grep -nw "horseman" The\ Young\ Engineers.txt
 
 
 # -----------------
 # Task 4 Answer
 # -----------------
+grep -nr "Untitled file has been modified. Would you like to save it" drjava
+drjava/src/edu/rice/cs/drjava/ui/MainFrame.java:9627: 
 
